@@ -1,0 +1,7 @@
+body {
+    background-image: url('/assets/images/cloud.png'); /* Replace 'path/to/your/image.jpg' with the path to your image */
+    background-size: cover; /* Cover the entire background */
+    background-repeat: no-repeat; /* Prevent repeating the background image */
+    position: relative;
+    /* You can add more properties here to adjust the background appearance */
+}
